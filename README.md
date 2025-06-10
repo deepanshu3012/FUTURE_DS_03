@@ -2,6 +2,7 @@
  Analyze student event feedback to uncover satisfaction trends and suggest improvements using survey data.
  
 📊 College Event Feedback Analysis
+
 🔍 Project Overview
 College events like workshops, tech fests, and cultural programs gather valuable student feedback — but are we using it effectively?
 
@@ -96,7 +97,7 @@ Clone the repository
 bash
 Copy
 Edit
-git clone [Your GitHub Repo Link]
+git clone https://github.com/deepanshu3012/FUTURE_DS_03
 Open college_event_feedback_analysis.ipynb in Jupyter Notebook or Google Colab.
 
 Run all the cells to see the full analysis and visualizations.
